@@ -174,9 +174,9 @@ Run `docker image inspect my-docker-app:1.0` and answer:
 
 ## Submission
 
--Do a video recording of your step-by-step proces.
--Make sure your face is also captured when doing the recording
--Upload said video recording on google drive and make sure that it is shared to me or anyone with link.
--Upload the pdf file containing the link of your recorded video.
+- Do a video recording of your step-by-step proces.
+- Make sure your face is also captured when doing the recording
+- Upload said video recording on google drive and make sure that it is shared to me or anyone with link.
+- Upload the pdf file containing the link of your recorded video.
 
 ---
