@@ -171,3 +171,12 @@ Run `docker image inspect my-docker-app:1.0` and answer:
 - **Solution:** Make sure the container is still running (`docker ps`). If not, restart it or check the logs with `docker logs my-app-container`.
 
 ---
+
+## Submission
+
+-Do a video recording of your step-by-step proces.
+-Make sure your face is also captured when doing the recording
+-Upload said video recording on google drive and make sure that it is shared to me or anyone with link.
+-Upload the pdf file containing the link of your recorded video.
+
+---
